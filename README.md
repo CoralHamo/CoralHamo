@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoralHamo (Coral Hamo Goren)
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning Machine Learning in YDATA
+- 🌱 I’m currently learning Machine Learning @ YDATA
 - 📫 How to reach me - coralhamo@gmail.com
 
 <!---
